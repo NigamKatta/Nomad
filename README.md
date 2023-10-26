@@ -1,3 +1,3 @@
-# General Navigation Models: GNM, ViNT and NoMaD
+# General Navigation Models: NoMaD
 
 
